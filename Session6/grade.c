@@ -8,7 +8,7 @@ int main () {
          	printf("Excellent!\n" );
          	break;
       case 'B' :
-printf("Great work\n" );
+            printf("Great work\n" );
          	break;
       case 'C' :
          	printf("Well done\n" );
